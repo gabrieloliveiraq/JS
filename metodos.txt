@@ -1,0 +1,24 @@
+MÉTODOS RECEBEM PARAMÊTROS
+
+• var.length = pega o tamanho do Array
+• var.push() = coloca item dentro do Array na última posição
+• var.pop() = exluir último elemento do array
+• var.slice(0, nomes.length/2) = divide lista (arrays) em partes
+• var.splice(1,2, 'nome')
+• var.cancat() = juntar arrays
+• var.includes() = retornar um verdadeiro ou falso (se está incluso o valor passado no paramêtro)
+ var.indexOf() = retornar o número do indice da valor passado (ed acordo com o array)
+ var.forEach() = 'para cada' (callback)
+ var.map() = 
+var.toUpperCase() = pegar itens do array e colocar como maiúsculo
+variavel.objeto.substring(0,1) = achar posições no valor do objeto
+objeto.item.push({item2: valor}) = adicionar um item ao objeto
+var.includes("valor") = validar se existe o valor dentro de um um array, objeto...
+Object.Keys(objeto) = listar as chaves dos objetos
+Object.values(objeto) = listar os valores de cada chave de um objeto
+Object.entries(objeto) = listar em um array as chaves com valores
+var.length() = pegar o tamanho do array
+
+
+
+ - ternário
